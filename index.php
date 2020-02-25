@@ -2,7 +2,7 @@
 <html lang="en">
 <?php
       $a=10;
-      $b=5
+      $b=5;
 ?>
       <head>
     <meta charset="UTF-8">
