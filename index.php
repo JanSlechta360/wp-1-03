@@ -30,4 +30,4 @@
      <p>Podíl  <?= $a ?> / <?= $b ?> = <?= $portion ?> </p> 
 
 </body>
-</html>
+</html> 
